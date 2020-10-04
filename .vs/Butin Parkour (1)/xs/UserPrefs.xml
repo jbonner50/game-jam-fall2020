@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4FA3A18F-B1B6-25D0-A6E0-3ED2705AEC1B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObstacleSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObstacleSpawner.cs" Line="30" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/VodkaPower.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/SlidingWall.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/PowerUpSpawner.cs" Line="19" Column="40" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="167" Column="91" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+      <File FileName="Assets/Scripts/Butin.cs" />
+      <File FileName="Assets/Scripts/DollPower.cs" />
+      <File FileName="Assets/Scripts/SandBichPower.cs" />
+      <File FileName="Assets/Scripts/VodkaSpawner.cs" />
+      <File FileName="Assets/Scripts/Music.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Butin Parkour (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObstacleSpawner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c92a43dd-3247-44fd-af58-c3408e89ddc8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
